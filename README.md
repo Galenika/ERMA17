@@ -17,7 +17,7 @@ Make sure, you add your Adress, Telegram-Token (in ```ERMA17_alpha.py```) and Et
 
 ### If you like this project, please consider a donation.
 
-ETH: 0xd60d1604cc0DD2F49e830E95472502E06227eB55
+ETH: __ 0xd60d1604cc0DD2F49e830E95472502E06227eB55 __
 
 ### If you have any questions, just write me a message on Github, or join or discord server:
 https://discord.gg/6PwuaTq
