@@ -24,5 +24,5 @@ Make sure, you add your Adress, Telegram-Token (in ```ERMA17_alpha.py```) and Et
 
 ETH: __0xd60d1604cc0DD2F49e830E95472502E06227eB55__
 
-### If you have any questions, just message me on Github, or join discord server:
+### If you have any questions, just message me on Github, or join our discord server:
 https://discord.gg/6PwuaTq
