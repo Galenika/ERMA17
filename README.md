@@ -1,7 +1,7 @@
 # ERMA17
 An open source telegram bot for monitoring etherum mining on nanopool.com.
 
-It is written for Windows 10, but can easily be modified for UNIX systems.
+It is written for __Windows 10__, but can easily be modified for UNIX systems.
 
 ### Following dependencies are needed:
 ```
