@@ -1,7 +1,7 @@
 # ERMA17
 An open source telegram bot for monitoring ethereum mining on nanopool.com.
 
-It is written for __Windows 10__, but can easily be modified for UNIX systems.
+It is written for __Windows 10__, but can easily be modified for UNIX systems. Tested on Python 3.5.3.
 
 ### Getting Telegram Tokens and Etherscan.io API-Keys
 
