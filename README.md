@@ -16,7 +16,7 @@ requests
 urllib3
 base64
 ```
-Just install them with the ```install_dependencies.bat``` script, or just use the ```pip``` installer. However, the python-etherscan.io api has to be installed according to the instructions found in the original repository.
+Just install them with the ```install_dependencies.bat``` (experimental) script, or just use the ```pip``` installer. However, the python-etherscan.io api has to be installed according to the instructions found in the original repository.
 
 Make sure, you add your Adress, Telegram-Token (in ```ERMA17_alpha.py```) and Etherscan.io API-Key (in ```/escan_api/api_key.json```) to the program. 
 
