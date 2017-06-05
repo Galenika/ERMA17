@@ -1,9 +1,14 @@
 # ERMA17
-An open source telegram bot for monitoring etherum mining on nanopool.com.
+An open source telegram bot for monitoring ethereum mining on nanopool.com.
 
 It is written for __Windows 10__, but can easily be modified for UNIX systems.
 
-### Following dependencies are needed:
+### Getting Telegram Tokens and Etherscan.io API-Keys
+
+In order to get this bot working, you will need a Bot token, which is instructed [here](https://core.telegram.org/bots#3-how-do-i-create-a-bot) and an etherscan.io API-key, which is acquired by [registering](https://etherscan.io/register) at etherscan.io.
+
+
+### Following dependencies need to be installed:
 ```
 https://github.com/corpetty/py-etherscan-api -> stored in te py_ethio_api folder, in case you want to use my version.
 python-telegram-bot
@@ -19,5 +24,5 @@ Make sure, you add your Adress, Telegram-Token (in ```ERMA17_alpha.py```) and Et
 
 ETH: __0xd60d1604cc0DD2F49e830E95472502E06227eB55__
 
-### If you have any questions, just write me a message on Github, or join or discord server:
+### If you have any questions, just message me on Github, or join discord server:
 https://discord.gg/6PwuaTq
