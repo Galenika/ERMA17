@@ -1,0 +1,1 @@
+pyinstaller "ERMA17_alpha.py" -F
